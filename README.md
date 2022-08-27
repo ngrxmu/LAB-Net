@@ -1,6 +1,6 @@
 # Code for LAB-Net
 ## Paper name
-LAB-Net: A Lightweight Network Based on LAB Color Space for Shadow Removal
+LAB-Net: LAB Color-Space Oriented Lightweight Network for Shadow Removal
 ## Requirements
 python=3.7.13
 
