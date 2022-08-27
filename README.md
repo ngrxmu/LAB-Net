@@ -1,6 +1,6 @@
-# Code for under review (AAAI2023) paper
+# Code for LAB-Net
 ## Paper name
-LAB-Net: A Lightweight Network Based on LAB Color Space for Shadow Removal (paper id=1304)
+LAB-Net: A Lightweight Network Based on LAB Color Space for Shadow Removal
 ## Requirements
 python=3.7.13
 
